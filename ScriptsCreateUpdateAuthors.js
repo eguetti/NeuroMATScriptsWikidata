@@ -1,6 +1,23 @@
 Site tutorial GIT
 https://devconnected.com/how-to-git-reset-to-head/
 
+Pesquisador Associado (Q111972591)
+
+Pesquisador Principal
+Principal investigator (Q7245082) 
+
+Coordenador de Educação e Difusão de Conhecimento 
+Education and knowledge diffusion Coordinator (Q111972602) 
+
+Coordenador da Tranferência da tecnologia
+Technology Transfer Coordinator (Q111972605) 
+
+Gestor de Transferência de Tecnologia
+Technology Transfer Manager (Q112075451) 
+
+Gestor Executivo
+Executive Manager (Q9387106)
+ 
 
 Example update
 ------------------------
@@ -23,8 +40,10 @@ Q102930817|P1416|Q18477654|P580|+2018-09-01T00:00:00Z/11|P582|+2024-07-31T00:00:
 Q105708376	Amanda Sávio Nascimento e Silva 22/07/2015	28/04/2020
 Q105708376|P1416|Q18477654|P580|+2015-07-22T00:00:00Z/11|P582|+2020-04-28T00:00:00Z/11|P39|Q111972591|S854|"https://neuromat.numec.prp.usp.br/team/"
 
-Q109884080	Ana Carolina Quirino Simoes	Pesquisador Associado			01/08/2013	01/11/2015
-Q105708376|P1416|Q18477654|P580|+2015-07-22T00:00:00Z/11|P582|+2020-04-28T00:00:00Z/11|P39|Q111972591|S854|"https://neuromat.numec.prp.usp.br/team/"
+Q109884080	Ana Carolina Quirino Simoes	Pesquisador Associado	01/08/2013	01/11/2015
+Q109884080|P1416|Q18477654|P580|+2013-08-01T00:00:00Z/11|P582|+2015-11-01T00:00:00Z/11|P39|Q111972591|S854|"https://neuromat.numec.prp.usp.br/team/"
+
+
 
 
 Create
