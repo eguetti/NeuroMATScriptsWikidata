@@ -24,6 +24,7 @@ Example update
 P9683 Qualis rank
 Q101496414|P9683|somevalue|P585|+2019-00-00T00:00:00Z/9|S854|"http://www.ppc.uem.br/qualis-2019/qualis-2019.pdf/view"|S813|+2022-05-4T00:00:00Z/11
 
+
 ------------------------
 ADD affiliation 
 Example: DD/MM/yyyy : convertir-> 03/01/2016  MM/DD/YYYY ou   2013-08-01 YYYY/MM/DD
@@ -33,6 +34,7 @@ Q111972591 Associate investigator
 ------------------------
 Q98497353 Alexsandro Giacomo Grimbert Gallo  01/08/2014	31/07/2024
 Q98497353|P1416|Q18477654|P580|+2014-08-01T00:00:00Z/11|P582|+2024-07-31T00:00:00Z/11|P39|Q111972591|S854|"https://neuromat.numec.prp.usp.br/team/"
+
 
 Q102930817 Aline Duarte de Olivieira 	09/01/2018	31/07/2024
 Q102930817|P1416|Q18477654|P580|+2018-09-01T00:00:00Z/11|P582|+2024-07-31T00:00:00Z/11|P39|Q111972591|S854|"https://neuromat.numec.prp.usp.br/team/"
