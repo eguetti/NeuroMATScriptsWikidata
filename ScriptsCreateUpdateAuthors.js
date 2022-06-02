@@ -96,6 +96,10 @@ Q111837123|	P21 |	Q6581072
 //Given Name Annie
 Q111837123|	P735 |	Q566893
 
+//Gender Male
+P21 Q6581097
+
+P735 Q18061657 //Sergio
 
 CREATE            		
 ------------------------
@@ -104,9 +108,9 @@ Claudio Marcos Teixeira de Queiroz
 CREATE            				
 LAST 	P31 Q5  
 LAST 	Len	"Claudio Marcos Teixeira de Queiroz"			
-LAST	Dpt-br	"Claudio M. Teixeira de Queiroz"		
-LAST	Den		"Claudio M. Teixeira de Queiroz"
-LAST	Des		"Claudio M. Teixeira de Queiroz"  
+LAST	Lpt-br	"Claudio M. Teixeira de Queiroz"		
+LAST	Len		"Claudio M. Teixeira de Queiroz"
+LAST	Les		"Claudio M. Teixeira de Queiroz"  
 LAST 	P21 	Q6581097				
 LAST 	P735 	Q1150993				
 LAST 	P106	Q1650915				
@@ -118,9 +122,20 @@ LAST 	P1416	Q18477654	P580 +2016-01-05T00:00:00Z/11  P582	+2020-28-04T00:00:00Z/
 CREATE           				
 LAST 	P31 	Q5  
 LAST 	Len	"Claudio Marcos Teixeira de Queiroz"			
-LAST	Dpt-br	"Claudio M. Teixeira de Queiroz"		
-LAST	Den		"Claudio M. Teixeira de Queiroz"
-LAST	Des		"Claudio M. Teixeira de Queiroz"  
+LAST	Lpt-br	"Claudio M. Teixeira de Queiroz"		
+LAST	Len		"Claudio M. Teixeira de Queiroz"
+LAST	Les		"Claudio M. Teixeira de Queiroz"  
 LAST 	P21 	Q6581097				
 LAST 	P735 	Q1150993				
 LAST 	P106	Q1650915	
+
+CREATE           				
+LAST 	P31 	Q5  
+LAST 	Len	"Sergio Neuenschwander"			
+LAST	Lpt-br	"Sergio Neuenschwander"		
+LAST	Len		"Sergio Neuenschwander"
+LAST	Les		"Sergio Neuenschwander"  
+LAST 	P21 Q6581097			
+LAST 	P735 	Q18061657				
+LAST 	P106	Q1650915
+
