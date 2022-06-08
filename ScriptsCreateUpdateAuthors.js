@@ -139,3 +139,47 @@ LAST 	P21 Q6581097
 LAST 	P735 	Q18061657				
 LAST 	P106	Q1650915
 
+
+CREATE           				
+LAST 	P31 	Q5  
+LAST 	P21	Q6581072			
+LAST 	P735 	Q18219548				
+LAST 	P106	Q1650915
+LAST 	Len	"Raquel de Paula Carvalho"
+LAST	Lpt-br	"Raquel de Paula Carvalho"
+LAST	Len	"Raquel de Paula Carvalho"
+LAST	Les	"Raquel de Paula Carvalho"  
+
+
+//Gender Female
+Q111837123|	P21 |	Q6581072
+P735 Q18061657 //raquel
+Q1650915 //researcher
+
+CREATE           				
+LAST 	P31 	Q5  
+LAST 	P106	Q1650915
+LAST 	P21 Q6581097			
+LAST 	P735 	Q43382071				
+LAST 	Len	"Marzio Cassandro"			
+LAST	Lpt-br	"Marzio Cassandro"			
+LAST	Len		"Marzio Cassandro"			
+LAST	Les		"Marzio Cassandro"			
+
+
+//Q43382071  Marzio
+//Gender Female
+P21 |	Q6581072
+P735 Q12795429 //MAgda
+
+Magda Holan Yu Chang
+CREATE           				
+LAST 	P31 	Q5  
+LAST 	P21	Q6581072			
+LAST 	P735 	Q12795429				
+LAST 	P106	Q9387106
+LAST 	Len	"Magda Holan Yu Chang"
+LAST	Lpt-br	"Magda Holan Yu Chang"
+LAST	Len	"Magda Holan Yu Chang"
+LAST	Les	"Magda Holan Yu Chang"  
+
