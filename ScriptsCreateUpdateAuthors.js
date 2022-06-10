@@ -120,28 +120,28 @@ LAST 	P1416	Q18477654	P580 +2016-01-05T00:00:00Z/11  P582	+2020-28-04T00:00:00Z/
 
 
 CREATE           				
-LAST 	P31 	Q5  
+LAST 	P31	Q5  
 LAST 	Len	"Claudio Marcos Teixeira de Queiroz"			
 LAST	Lpt-br	"Claudio M. Teixeira de Queiroz"		
-LAST	Len		"Claudio M. Teixeira de Queiroz"
-LAST	Les		"Claudio M. Teixeira de Queiroz"  
-LAST 	P21 	Q6581097				
-LAST 	P735 	Q1150993				
+LAST	Len	"Claudio M. Teixeira de Queiroz"
+LAST	Les	"Claudio M. Teixeira de Queiroz"  
+LAST 	P21	Q6581097				
+LAST 	P735	Q1150993				
 LAST 	P106	Q1650915	
 
 CREATE           				
-LAST 	P31 	Q5  
+LAST 	P31	Q5  
 LAST 	Len	"Sergio Neuenschwander"			
 LAST	Lpt-br	"Sergio Neuenschwander"		
 LAST	Len		"Sergio Neuenschwander"
 LAST	Les		"Sergio Neuenschwander"  
 LAST 	P21 Q6581097			
-LAST 	P735 	Q18061657				
+LAST 	P735	Q18061657				
 LAST 	P106	Q1650915
 
 
 CREATE           				
-LAST 	P31 	Q5  
+LAST 	P31	Q5  
 LAST 	P21	Q6581072			
 LAST 	P735 	Q18219548				
 LAST 	P106	Q1650915
@@ -157,10 +157,10 @@ P735 Q18061657 //raquel
 Q1650915 //researcher
 
 CREATE           				
-LAST 	P31 	Q5  
+LAST 	P31	Q5  
 LAST 	P106	Q1650915
-LAST 	P21 Q6581097			
-LAST 	P735 	Q43382071				
+LAST 	P21	Q6581097			
+LAST 	P735	Q43382071				
 LAST 	Len	"Marzio Cassandro"			
 LAST	Lpt-br	"Marzio Cassandro"			
 LAST	Len		"Marzio Cassandro"			
@@ -169,17 +169,99 @@ LAST	Les		"Marzio Cassandro"
 
 //Q43382071  Marzio
 //Gender Female
-P21 |	Q6581072
-P735 Q12795429 //MAgda
+//P21 |	Q6581072
+//P735 Q12795429 //MAgda
 
 Magda Holan Yu Chang
 CREATE           				
-LAST 	P31 	Q5  
+LAST 	P31	Q5  
 LAST 	P21	Q6581072			
-LAST 	P735 	Q12795429				
+LAST 	P735	Q12795429				
 LAST 	P106	Q9387106
 LAST 	Len	"Magda Holan Yu Chang"
 LAST	Lpt-br	"Magda Holan Yu Chang"
 LAST	Len	"Magda Holan Yu Chang"
 LAST	Les	"Magda Holan Yu Chang"  
 
+//P106 Q1125292  Pesquisador 
+//Q7141520 Antonio
+Antonio marcos batista do nascimento
+CREATE           				
+LAST 	P31	Q5  
+LAST 	P21	Q6581097			
+LAST 	P735	Q7141520				
+LAST 	P106	Q1650915
+LAST	Lpt-br	"Antonio marcos batista do nascimento"
+LAST	Len	"Antonio marcos batista do nascimento"
+LAST	Les	"Antonio marcos batista do nascimento"  
+
+//Q18699745  Flavio
+//P106 Q1650915  Pesquisador 
+Flavio Roberto Rusch
+CREATE           				
+LAST 	P31	Q5  
+LAST 	P21	Q6581097			
+LAST 	P106	Q1650915
+LAST 	P735	Q18699745				
+LAST 	Len	"Flavio Roberto Rusch"
+LAST	Lpt-br	"Flavio Roberto Rusch"
+LAST	Len	"Flavio Roberto Rusch"
+
+
+// Q20227563 Cristiane
+//Q1125292 pesquisador
+//Gender Female P21 |	Q6581072
+Cristiane Borges Patroclo
+CREATE           				
+LAST 	P31	Q5  
+LAST 	P21	Q6581072					
+LAST 	P735	Q20227563				
+LAST 	P106	Q1650915
+LAST 	Len	"Cristiane Borges Patroclo"
+LAST	Lpt-br	"Cristiane Borges Patroclo"
+LAST	Les	"Cristiane Borges Patroclo"  
+
+//Q1125292 pesquisador P106
+//Gender Female P21 |	Q6581072
+//Q3289530  Marcelle P735
+//Q6581097 P21 male
+Marcelle Ribeiro Rodrigues
+CREATE           				
+LAST 	P31	Q5  
+LAST 	P21	Q6581097					
+LAST 	P735	Q3289530				
+LAST 	P106	Q1650915
+LAST 	Len	"Marcelle Ribeiro Rodrigues"
+LAST 	Den	"researcher"
+LAST	Lpt-br	"Marcelle Ribeiro Rodrigues"
+LAST	Dpt-br "pesquisadora"
+LAST	Les	"Marcelle Ribeiro Rodrigues"  
+LAST	Des "investigadora"
+
+//Q1125292 pesquisador
+//Gender Female P21 |	Q6581072
+//P735 	Q7141520	
+Kádmo de S. Laxa
+Kádmo de Souza Laxa
+
+CREATE           				
+LAST	P31	Q5  
+LAST	P21	Q6581097			
+LAST	P106	Q1650915	
+LAST	Len	"Kádmo de Souza Laxa"
+LAST	Den	"researcher"
+LAST	Lpt-br	"Kádmo de Souza Laxa"
+LAST	Len	"Kádmo de Souza Laxa"
+
+
+Paulo Roberto Cabral Passos
+//Q18385147 Paulo
+CREATE     				
+LAST	P31	Q5  
+LAST	P21	Q6581097			
+LAST	P106	Q1650915
+LAST 	P735	Q18385147
+LAST	Len	"Paulo Roberto Cabral Passos"
+LAST	Den	"researcher"
+LAST	Lpt-br	"Paulo Roberto Cabral Passos"
+LAST	Len	"Paulo Roberto Cabral Passos"
