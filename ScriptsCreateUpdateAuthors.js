@@ -280,3 +280,64 @@ LAST	Lpt-br	"Renata Biazzi Biaggi"
 LAST	Dpt-br "pesquisadora"
 LAST	Les	"Renata Biazzi Biaggi"  
 LAST	Des "investigadora"
+
+//Q6581097 male
+//LAST 	P21	Q6581097 male
+//Q14626626 michel
+Michel Viana Smykalla
+CREATE	
+LAST	P31	Q5
+LAST	P735	Q14626626
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Michel Viana Smykalla"
+LAST	Den	"researcher"
+LAST	Des "investigador"
+LAST	Dpt-br "pesquisador"
+LAST	Lpt-br	"Michel Viana Smykalla"
+LAST	Les	"Michel Viana Smykalla"
+
+
+//Q15897708 Petrus
+Petrus do Nascimento Kirsten
+CREATE	
+LAST	P31	Q5
+LAST	P735	Q15897708
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Petrus do Nascimento Kirsten"
+LAST	Den	"researcher"
+LAST	Des "investigador"
+LAST	Dpt-br "pesquisador"
+LAST	Lpt-br	"Petrus do Nascimento Kirsten"
+LAST	Les	"Petrus do Nascimento Kirsten"
+
+// Vinicius (Q20001585) 
+Vinicius Valentino Maria
+CREATE
+LAST	P31	Q5
+LAST	P735	Q20001585
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Vinicius Valentino Maria"
+LAST	Den	"researcher"
+LAST	Des "investigador"
+LAST	Dpt-br "pesquisador"
+LAST	Lpt-br	"Vinicius Valentino Maria"
+LAST	Les	"Vinicius Valentino Maria"
+
+
+
+Yan Tadeu Kaled e Silva Barbosa
+//Q19768450 yan
+CREATE
+LAST	P31	Q5
+LAST	P735	Q19768450
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Yan Tadeu Kaled e Silva Barbosa"
+LAST	Den	"researcher"
+LAST	Des "investigador"
+LAST	Dpt-br "pesquisador"
+LAST	Lpt-br	"Yan Tadeu Kaled e Silva Barbosa"
+LAST	Les	"Yan Tadeu Kaled e Silva Barbosa"
