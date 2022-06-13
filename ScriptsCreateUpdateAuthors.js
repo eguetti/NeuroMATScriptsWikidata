@@ -265,3 +265,18 @@ LAST	Len	"Paulo Roberto Cabral Passos"
 LAST	Den	"researcher"
 LAST	Lpt-br	"Paulo Roberto Cabral Passos"
 LAST	Len	"Paulo Roberto Cabral Passos"
+
+//Q6581072 female
+//P735 Q4964415 Renata
+Renata Biazzi Biaggi
+CREATE           				
+LAST 	P31	Q5  
+LAST 	P21	Q6581072					
+LAST 	P735	Q4964415				
+LAST 	P106	Q1650915
+LAST 	Len	"Renata Biazzi Biaggi"
+LAST 	Den	"researcher"
+LAST	Lpt-br	"Renata Biazzi Biaggi"
+LAST	Dpt-br "pesquisadora"
+LAST	Les	"Renata Biazzi Biaggi"  
+LAST	Des "investigadora"
