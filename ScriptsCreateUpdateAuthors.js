@@ -341,3 +341,189 @@ LAST	Des "investigador"
 LAST	Dpt-br "pesquisador"
 LAST	Lpt-br	"Yan Tadeu Kaled e Silva Barbosa"
 LAST	Les	"Yan Tadeu Kaled e Silva Barbosa"
+
+Alexandre Barizon
+//Q16002466 Alexandre
+CREATE
+LAST	P31	Q5
+LAST	P735 Q16002466
+LAST 	P21	Q6581097
+LAST	P106 Q1650915
+LAST	Len	"Alexandre Barizon"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br "pesquisador"
+LAST	Lpt-br	"Alexandre Barizon"
+LAST	Les	"Alexandre Barizon"
+
+Antonio Ferrão Neto
+//Q7141520 Antonio
+CREATE
+LAST	P31	Q5
+LAST	P735	Q7141520
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Antonio Ferrão Neto"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Antonio Ferrão Neto"
+LAST	Les	"Antonio Ferrão Neto"
+
+//
+Arthur Piza Mosterio Tofani
+//Q1778168 Arthur
+CREATE
+LAST	P31	Q5
+LAST	P735	Q1778168
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Arthur Piza Mosterio Tofani"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Arthur Piza Mosterio Tofani"
+LAST	Les	"Arthur Piza Mosterio Tofani"
+
+
+Celso Oviedo da Silva Lopes
+//Q3664307 Celso
+CREATE
+LAST	P31	Q5
+LAST	P735	Q3664307
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Celso Oviedo da Silva Lopes"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Celso Oviedo da Silva Lopes"
+LAST	Les	"Celso Oviedo da Silva Lopes"
+
+Dário Augusto Borges Oliveira
+//Q33092476 Dário
+CREATE
+LAST	P31	Q5
+LAST	P735	Q33092476
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Dário Augusto Borges Oliveira"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Dário Augusto Borges Oliveira"
+LAST	Les	"Dário Augusto Borges Oliveira"
+
+Diogo de Carvalho Pedrosa
+//Q13479698 Diogo
+CREATE
+LAST	P31	Q5
+LAST	P735	Q13479698
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Diogo de Carvalho Pedrosa"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Diogo de Carvalho Pedrosa"
+LAST	Les	"Diogo de Carvalho Pedrosa"
+
+Eduardo Werley Silva dos Ângelos
+//Q18130894 Eduardo
+CREATE
+LAST	P31	Q5
+LAST	P735	Q18130894
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Eduardo Werley Silva dos Ângelos"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Eduardo Werley Silva dos Ângelos"
+LAST	Les	"Eduardo Werley Silva dos Ângelos"
+
+Evandro Santos Rocha
+//Q18130894 Eduardo
+CREATE
+LAST	P31	Q5
+LAST	P735	Q3735179
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Evandro Santos Rocha"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Evandro Santos Rocha"
+LAST	Les	"Evandro Santos Rocha"
+
+Lucas Cardoso Santos
+//Lucas Q12325000
+CREATE
+LAST	P31	Q5
+LAST	P735	Q12325000
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Lucas Cardoso Santos"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Lucas Cardoso Santos"
+LAST	Les	"Lucas Cardoso Santos"
+
+Marcos Labriola
+//Marcos 
+CREATE
+LAST	P31	Q5
+LAST	P735	Q6757805
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Marcos Labriola"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Marcos Labriola"
+LAST	Les	"Marcos Labriola"
+
+
+Rômulo José Franco
+//Rômulo Q65929548
+CREATE
+LAST	P31	Q5
+LAST	P735	Q65929548
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Rômulo José Franco"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Rômulo José Franco"
+LAST	Les	"Rômulo José Franco"
+
+Sidnéia Sousa França
+//Q65929548 Sidnéia
+CREATE
+LAST	P31	Q5
+LAST	P735	Q65929548
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Sidnéia Sousa França"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Sidnéia Sousa França"
+LAST	Les	"Sidnéia Sousa França"
+
+Sueli dos Santos Rabaça
+//Sueli 
+//Q6581072 female
+CREATE
+LAST	P31	Q5
+LAST	P735	Q21286120
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Sueli dos Santos Rabaça"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Sueli dos Santos Rabaça"
+LAST	Les	"Sueli dos Santos Rabaça"
