@@ -527,3 +527,164 @@ LAST	Des	"investigador"
 LAST	Dpt-br	"pesquisador"
 LAST	Lpt-br	"Sueli dos Santos Rabaça"
 LAST	Les	"Sueli dos Santos Rabaça"
+
+//Camilla Q16422363
+//female	Q6581072
+
+Camilla Tsuji Oviedo Lopes
+
+CREATE
+LAST	P31	Q5
+LAST	P735	Q16422363
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Camilla Tsuji Oviedo Lopes"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Camilla Tsuji Oviedo Lopes"
+LAST	Les	"Camilla Tsuji Oviedo Lopes"
+
+Carolina Salles Carvalho
+//carolina  Q5044762
+CREATE
+LAST	P31	Q5
+LAST	P735	Q5044762
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Carolina Salles Carvalho"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Carolina Salles Carvalho"
+LAST	Les	"Carolina Salles Carvalho"
+
+Fernanda Volchan Cruz
+//Fernanda Q1406557
+CREATE
+LAST	P31	Q5
+LAST	P735	Q1406557
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Fernanda Volchan Cruz"
+LAST	Den	"researcher"
+LAST	Des	"investigadora"
+LAST	Dpt-br	"pesquisadora"
+LAST	Lpt-br	"Fernanda Volchan Cruz"
+LAST	Les	"Fernanda Volchan Cruz"
+
+Giulia Modupe Ebohon
+//Giulia Q127733
+CREATE
+LAST	P31	Q5
+LAST	P735	Q127733
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Giulia Modupe Ebohon"
+LAST	Den	"researcher"
+LAST	Des	"investigadora"
+LAST	Dpt-br	"pesquisadora"
+LAST	Lpt-br	"Giulia Modupe Ebohon"
+LAST	Les	"Giulia Modupe Ebohon"
+
+Karolina de Souza Bérgamo Almeida
+//Karolina Q1734206
+CREATE
+LAST	P31	Q5
+LAST	P735	Q1734206
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Karolina de Souza Bérgamo Almeida"
+LAST	Den	"researcher"
+LAST	Des	"investigadora"
+LAST	Dpt-br	"pesquisadora"
+LAST	Lpt-br	"Karolina de Souza Bérgamo Almeida"
+LAST	Les	"Karolina de Souza Bérgamo Almeida"
+
+Monique Ribeiro Polera Sampaio
+//Monique Q1524975
+CREATE
+LAST	P31	Q5
+LAST	P735	Q1524975
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Monique Ribeiro Polera Sampaio"
+LAST	Den	"researcher"
+LAST	Des	"investigadora"
+LAST	Dpt-br	"pesquisadora"
+LAST	Lpt-br	"Monique Ribeiro Polera Sampaio"
+LAST	Les	"Monique Ribeiro Polera Sampaio"
+
+
+Soﬁa Franco Guilherme
+//Sofia Q18201520
+CREATE
+LAST	P31	Q5
+LAST	P735	Q18201520
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Soﬁa Franco Guilherme"
+LAST	Den	"researcher"
+LAST	Des	"investigadora"
+LAST	Dpt-br	"pesquisadora"
+LAST	Lpt-br	"Soﬁa Franco Guilherme"
+LAST	Les	"Soﬁa Franco Guilherme"
+
+
+Thais May Carvalho
+//Thais Q104321049
+CREATE
+LAST	P31	Q5
+LAST	P735	Q104321049
+LAST 	P21	Q6581072
+LAST	P106	Q1650915
+LAST	Len	"Thais May Carvalho"
+LAST	Den	"researcher"
+LAST	Des	"investigadora"
+LAST	Dpt-br	"pesquisadora"
+LAST	Lpt-br	"Thais May Carvalho"
+LAST	Les	"Thais May Carvalho"
+
+
+Wilson Krugner Vicentin
+//Wilson Q18552466 
+//male Q6581097
+CREATE
+LAST	P31	Q5
+LAST	P735	Q18552466
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Wilson Krugner Vicentin"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Wilson Krugner Vicentin"
+LAST	Les	"Wilson Krugner Vicentin"
+
+Eliezer Francisco de Santana Júnior
+//Eliezer Q18978321
+CREATE
+LAST	P31	Q5
+LAST	P735	Q18978321
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Eliezer Francisco de Santana Júnior"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Eliezer Francisco de Santana Júnior"
+LAST	Les	"Eliezer Francisco de Santana Júnior"
+
+Matheus Cornely Sayão
+//Matheus Q20629353
+CREATE
+LAST	P31	Q5
+LAST	P735	Q20629353
+LAST 	P21	Q6581097
+LAST	P106	Q1650915
+LAST	Len	"Matheus Cornely Sayão"
+LAST	Den	"researcher"
+LAST	Des	"investigador"
+LAST	Dpt-br	"pesquisador"
+LAST	Lpt-br	"Matheus Cornely Sayão"
+LAST	Les	"Matheus Cornely Sayão"
